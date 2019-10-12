@@ -1,0 +1,19 @@
+打开相机,相册,裁剪,提交图片框架
+
+框架使用说明 https://www.jianshu.com/p/6ac6b681c413
+框架源码  https://github.com/wildma/PictureSelector
+
+base64 - bitmap相互转换
+https://blog.csdn.net/merbn/article/details/80410053
+
+Rxjava2 线程切换原理和内存泄漏
+https://www.2cto.com/kf/201706/646113_2.html
+
+Rxjava2 导致的内存泄漏问题
+https://blog.csdn.net/alex01550/article/details/86496045
+
+java OOM内存泄漏原因及解决方法
+https://www.jb51.net/article/168298.htm
+
+
+
